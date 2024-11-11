@@ -15,16 +15,11 @@ module.exports = {
       }
     
     },
-   
     colors: {
-        sky: colors.sky,
-        stone: colors.stone,
-        neutral: colors.neutral,
-        gray: colors.gray,
-        slate: colors.slate,
-        primary: colors.purple,
+      ...colors,
+      primary: colors.purple,
       secondary: colors.pink,
-      },
+    },
   },
   plugins: [],
 };

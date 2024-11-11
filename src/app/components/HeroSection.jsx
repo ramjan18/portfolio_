@@ -36,7 +36,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm Ramjan Nadaf, a developer skilled in the MERN stack and Java, with a focus on creating user-friendly applications. Currently completing my BTech in Computer Science, I enjoy building dynamic, impactful projects.
+            I&apos;m Ramjan Nadaf, a developer skilled in the MERN stack and Java, with a focus on creating user-friendly applications. Currently completing my BTech in Computer Science, I enjoy building dynamic, impactful projects.
           </p>
           <div>
             <Link
